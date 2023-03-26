@@ -1,5 +1,5 @@
-
-I have been trying to jailbreak GPT 3.5 using GPT-4. The idea is for GPT-4 to come up with prompts and say things that GPT 3.5 has been RLHF'd not to say. 
+# Auto Red Teaming LLMs
+### I have been trying to jailbreak GPT 3.5 using GPT-4. The idea is for GPT-4 to come up with prompts and say things that GPT 3.5 has been RLHF'd not to say. 
 
 ## How it works
 
